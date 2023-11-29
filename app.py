@@ -3,7 +3,6 @@ import pandas as pd
 import os
 import re
 import ast
-import random
 import google.generativeai as palm
 from langchain.llms import GooglePalm
 from fuzzywuzzy import fuzz
